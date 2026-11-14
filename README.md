@@ -1,0 +1,6 @@
+- Project Name: Mystery Box Game
+- Language: C Programming
+- Players: 3
+- Rounds: 3
+- Features: Random Jackpot, Score Calculation, Leaderboard, Winner Announcement.
+- Compiler: GCC
